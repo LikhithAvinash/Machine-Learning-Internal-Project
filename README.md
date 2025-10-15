@@ -16,5 +16,7 @@ Task → Predict category of crimes that occurred in San Francisco.
 Dataset: [Sentiment Analysis on Movie Reviews Dataset](https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews/data)
 Task → Classify movie reviews as positive/negative sentiment.
 
-
+### Multi-Clusttering on Reddit(Grouping Chatgpt related chats)
+Dataset: [Sentiment Analysis on Movie Reviews Dataset](https://www.kaggle.com/datasets/armitaraz/chatgpt-reddit/data)
+Task → To Find the Best of Cluster of Reddit related to Chatgpt.
 
